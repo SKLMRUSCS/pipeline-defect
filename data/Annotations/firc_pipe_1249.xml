@@ -1,0 +1,38 @@
+<annotation>
+    <folder>VOC</folder>
+    <filename>firc_pipe_1249.jpg</filename>
+    <path>C:/Users/Administrator/Desktop/00/data/JPEGImages/firc_pipe_1249.jpg</path>
+    <source>
+        <database>My Database</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+        <object>
+            <name>kebocoran</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>250</xmin>
+                <ymin>98</ymin>
+                <xmax>271</xmax>
+                <ymax>125</ymax>
+            </bndbox>
+        </object>
+        <object>
+            <name>keretakan</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>392</xmin>
+                <ymin>149</ymin>
+                <xmax>431</xmax>
+                <ymax>172</ymax>
+            </bndbox>
+        </object>
+</annotation>

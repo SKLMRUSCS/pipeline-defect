@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>firc_pipe_56.jpg</filename>
+	<path>C:/Users/Administrator/Desktop/00/data/JPEGImages/firc_pipe_56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keretakan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>1</ymin>
+			<xmax>382</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

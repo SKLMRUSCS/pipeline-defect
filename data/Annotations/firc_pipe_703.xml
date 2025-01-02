@@ -1,0 +1,26 @@
+<annotation>
+    <folder>VOC</folder>
+    <filename>firc_pipe_703.jpg</filename>
+    <path>C:/Users/Administrator/Desktop/00/data/JPEGImages/firc_pipe_703.jpg</path>
+    <source>
+        <database>My Database</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+        <object>
+            <name>keretakan</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>130</xmin>
+                <ymin>234</ymin>
+                <xmax>291</xmax>
+                <ymax>310</ymax>
+            </bndbox>
+        </object>
+</annotation>

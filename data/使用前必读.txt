@@ -1,0 +1,12 @@
+数据集格式：Pascal VOC格式+YOLO格式(不包含分割路径的txt文件，仅仅包含jpg图片以及对应的VOC格式xml文件和yolo格式txt文件)
+图片数量(jpg文件个数)：2069
+标注数量(xml文件个数)：2069
+标注数量(txt文件个数)：2069
+标注类别数：2
+标注类别名称:["kebocoran","keretakan"]
+每个类别标注的框数：
+kebocoran 框数 = 1406
+keretakan 框数 = 1192
+总框数：2598
+使用标注工具：labelImg
+标注规则：对类别进行画矩形框
