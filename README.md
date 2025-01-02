@@ -73,29 +73,4 @@ The YOLO TXT files contain annotations in the following format:
 - `<x_center>`, `<y_center>`: Center of the bounding box (normalized to image width and height).
 - `<width>`, `<height>`: Width and height of the bounding box (normalized to image width and height).
 
-## Label Distribution
-
-| Category    | Number of Bounding Boxes |
-|-------------|---------------------------|
-| kebocoran   | 1406                      |
-| keretakan   | 1192                      |
-| **Total**   | **2598**                  |
-
-## Applications
-
-This dataset is ideal for training and evaluating object detection models, particularly for:
-- Defect detection in industrial pipelines.
-- Automated quality assurance in manufacturing.
-
-## Citation
-
-If you use this dataset in your research or projects, please cite this work appropriately.
-
-## License
-
-This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to use, share, and adapt the dataset, provided proper attribution is given.
-
----
-
-For any questions or support, please feel free to reach out via the repository's issue tracker.
 
